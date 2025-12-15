@@ -33,7 +33,8 @@ The dataset includes features related to customer behavior such as:
 * Python
 * NumPy
 * Pandas
-* Matplotlib / Seaborn
+* Matplotlib
+* Seaborn
 * scikit-learn
 
 ## Key Learnings
